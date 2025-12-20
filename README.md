@@ -1,14 +1,6 @@
-# Welcome to Oscar's Profile
+# 🎓 Welcome to Oscar's Profile
 
 Hi! Welcome to my profile. I'm a Data Science master's student at EPFL, interested in machine learning.
-
-## 🎓 Education
-
-- **École Polytechnique Fédérale de Lausanne (EPFL)** — *M.S. in Data Science*  
-  *Sept 2025 – Present*
-
-- **The Chinese University of Hong Kong, Shenzhen (CUHKsz)** — *B.S. in Data Science*  
-  *Sept 2021 – May 2025*  
 
 ## 📫 Contact
 - Email: [xinxian.ma@epfl.ch](mailto:xinxian.ma@epfl.ch)
