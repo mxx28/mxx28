@@ -3,6 +3,7 @@
 Hi! Welcome to my profile. I’m a Master’s student in Data Science at EPFL, interested in Machine Learning.
 
 ## 📫 Contact
+- Email: [xinxian.ma@epfl.ch](mailto:xinxian.ma@epfl.ch)
 - GitHub: [github.com/mxx28](https://github.com/mxx28)
 
 <h3 align="left">Languages and Tools:</h3>
